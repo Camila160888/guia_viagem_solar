@@ -11,7 +11,7 @@ Este guia foi criado para auxiliar os viajantes que desejam conhecer o sistema s
 - https://incrivel.club/articles/o-que-voce-deve-levar-para-o-espaco-o-melhor-checklist-de-viagem-de-todos-os-tempos-1249376/
 - https://www.youtube.com/watch?v=tm-0EYSG8bc
 
-## Miniguia de Estudos
+## Miniguia resumido de Estudos
 
 ### O Sistema Solar
 
