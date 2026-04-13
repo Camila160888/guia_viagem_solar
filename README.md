@@ -69,10 +69,10 @@ Para uma viagem espacial, a organização da bagagem deve priorizar itens que fu
   
 - Liste os planetas mais perigosos para turistas espaciais. Inclua históricos de acidentes, nomeando as naves e missões que foram afetadas. Para cada planeta, liste até 5 motivos utilizando a estrutura abaixo:
 
-- Nome do planeta:
-  - motivo 1
-  - motivo 2
-  - motivo 3...
+  - Nome do planeta:
+      - motivo 1
+      - motivo 2
+      - motivo 3...
 
   
 
